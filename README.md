@@ -59,16 +59,16 @@ How It Works
 
 ---
 
-Candidates
+# Candidates
 
 Option| Candidate
 1| Rahul
 2| Aman
-3| Priya
+3| Ayush
 
 ---
 
-Example Output
+# Example Output
 
 ===== Voting System =====
 
@@ -77,35 +77,35 @@ Enter number of voters: 5
 Voter 1
 1. Rahul
 2. Aman
-3. Priya
+3. Ayush
 Cast your vote (1-3): 2
 Vote recorded successfully!
 
 Voter 2
 1. Rahul
 2. Aman
-3. Priya
+3. Ayush
 Cast your vote (1-3): 1
 Vote recorded successfully!
 
 Voter 3
 1. Rahul
 2. Aman
-3. Priya
+3. Ayush
 Cast your vote (1-3): 2
 Vote recorded successfully!
 
 Voter 4
 1. Rahul
 2. Aman
-3. Priya
+3. Ayush
 Cast your vote (1-3): 3
 Vote recorded successfully!
 
 Voter 5
 1. Rahul
 2. Aman
-3. Priya
+3. Ayush
 Cast your vote (1-3): 2
 Vote recorded successfully!
 
@@ -113,18 +113,9 @@ Vote recorded successfully!
 
 Rahul : 1 Vote(s)
 Aman  : 3 Vote(s)
-Priya : 1 Vote(s)
+Ayush : 1 Vote(s)
 
 Winner: Aman
-
----
-
-Project Structure
-
-Voting-System/
-│
-├── main.py
-└── README.md
 
 ---
 
