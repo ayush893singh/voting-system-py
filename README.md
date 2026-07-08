@@ -1,11 +1,9 @@
 # Voting System
-
 A simple Python project that simulates a basic voting system. Users can cast votes for different candidates, and the program counts the votes and announces the winner.
 
 ---
 
-Features
-
+# Features
 - Enter the number of voters
 - Vote for one of three candidates
 - Count total votes
@@ -16,14 +14,12 @@ Features
 
 ---
 
-Technologies Used
-
+# Technologies Used
 - Python
 
 ---
 
-Concepts Used
-
+# Concepts Used
 This project uses:
 
 - Variables
@@ -35,22 +31,19 @@ This project uses:
 
 ---
 
-Installation
-
+# Installations 
 1. Install Python on your computer.
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
 
 ---
 
-How to Run
-
+# How to Run
 python main.py
 
 ---
 
-How It Works
-
+# How It Works
 1. Enter the total number of voters.
 2. Each voter selects a candidate.
 3. The program records every valid vote.
