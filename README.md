@@ -112,8 +112,7 @@ Winner: Aman
 
 ---
 
-Future Improvements
-
+# Future Improvements
 - Add custom candidate names
 - Prevent duplicate voting
 - Show vote percentages
@@ -122,14 +121,7 @@ Future Improvements
 - Display election statistics
 
 ---
-
-Repository Name
-
-voting-system-python
-
----
-
-Repository Description
+# Repository Description
 
 A simple Python voting system that allows users to cast votes, counts the votes, and announces the election winner.
 
