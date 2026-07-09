@@ -111,16 +111,6 @@ Ayush : 1 Vote(s)
 Winner: Aman
 
 ---
-
-# Future Improvements
-- Add custom candidate names
-- Prevent duplicate voting
-- Show vote percentages
-- Store voting results in a file
-- Add voter ID verification
-- Display election statistics
-
----
 # Repository Description
 
 A simple Python voting system that allows users to cast votes, counts the votes, and announces the election winner.
