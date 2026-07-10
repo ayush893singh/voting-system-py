@@ -118,4 +118,4 @@ A simple Python voting system that allows users to cast votes, counts the votes,
 ---
 
 # Author
-Ayush Singh
+Ayush Singh https://github.com/ayush893singh
