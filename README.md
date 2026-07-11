@@ -2,7 +2,11 @@
 A simple Python project that simulates a basic voting system. Users can cast votes for different candidates, and the program counts the votes and announces the winner.
 
 ---
+# Repository Description
 
+A simple Python voting system that allows users to cast votes, counts the votes, and announces the election winner.
+
+---
 # Features
 - Enter the number of voters
 - Vote for one of three candidates
@@ -109,11 +113,6 @@ Aman  : 3 Vote(s)
 Ayush : 1 Vote(s)
 
 Winner: Aman
-
----
-# Repository Description
-
-A simple Python voting system that allows users to cast votes, counts the votes, and announces the election winner.
 
 ---
 
