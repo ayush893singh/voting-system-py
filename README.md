@@ -112,7 +112,7 @@ Rahul : 1 Vote(s)
 Aman  : 3 Vote(s)
 Ayush : 1 Vote(s)
 
-Winner: Aman
+Winner: -Aman-
 
 ---
 
