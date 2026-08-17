@@ -59,7 +59,7 @@ python main.py
 # Candidates
 
 Option| Candidate
-1| Rahul
+1| Ravi
 2| Aman
 3| Ayush
 
@@ -72,35 +72,35 @@ Option| Candidate
 Enter number of voters: 5
 
 Voter 1
-1. Rahul
+1. Ravi
 2. Aman
 3. Ayush
 Cast your vote (1-3): 2
 Vote recorded successfully!
 
 Voter 2
-1. Rahul
+1. Ravi
 2. Aman
 3. Ayush
 Cast your vote (1-3): 1
 Vote recorded successfully!
 
 Voter 3
-1. Rahul
+1. Ravi
 2. Aman
 3. Ayush
 Cast your vote (1-3): 2
 Vote recorded successfully!
 
 Voter 4
-1. Rahul
+1. Ravi
 2. Aman
 3. Ayush
 Cast your vote (1-3): 3
 Vote recorded successfully!
 
 Voter 5
-1. Rahul
+1. Ravi
 2. Aman
 3. Ayush
 Cast your vote (1-3): 2
@@ -108,7 +108,7 @@ Vote recorded successfully!
 
 ===== Election Result =====
 
-Rahul : 1 Vote(s)
+Ravi : 1 Vote(s)
 Aman  : 3 Vote(s)
 Ayush : 1 Vote(s)
 
