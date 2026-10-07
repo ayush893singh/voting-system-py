@@ -1,6 +1,6 @@
-rahul = 0
-aman = 0
-priya = 0
+Ravi = 0
+Aman = 0
+Ayush = 0
 
 print("===== Voting System =====")
 
@@ -10,22 +10,22 @@ for i in range(voters):
 
     print(f"\nVoter {i+1}")
 
-    print("1. Rahul")
+    print("1. Ravi")
     print("2. Aman")
-    print("3. Priya")
+    print("3. Ayush")
 
     vote = input("Cast your vote (1-3): ")
 
     if vote == "1":
-        rahul += 1
+        Ravi += 1
         print("Vote recorded successfully!")
 
     elif vote == "2":
-        aman += 1
+        Aman += 1
         print("Vote recorded successfully!")
 
     elif vote == "3":
-        priya += 1
+        Ayush += 1
         print("Vote recorded successfully!")
 
     else:
@@ -33,18 +33,18 @@ for i in range(voters):
 
 print("\n===== Election Result =====")
 
-print(f"Rahul : {rahul} Vote(s)")
-print(f"Aman  : {aman} Vote(s)")
-print(f"Priya : {priya} Vote(s)")
+print(f"Ravi : {Ravi} Vote(s)")
+print(f"Aman  : {Aman} Vote(s)")
+print(f"Ayush : {Ayush} Vote(s)")
 
-if rahul > aman and rahul > priya:
-    print("\nWinner: Rahul")
+if Ravi > Aman and Ravi > Ayush:
+    print("\nWinner: Ravi")
 
-elif aman > rahul and aman > priya:
+elif Aman > Ravi and Aman > Ayush:
     print("\nWinner: Aman")
 
-elif priya > rahul and priya > aman:
-    print("\nWinner: Priya")
+elif Ayush > Ravi and Ayush > Aman:
+    print("\nWinner: Ayush")
 
 else:
     print("\nResult: Tie")
